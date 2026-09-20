@@ -10,10 +10,10 @@
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
+- **Pekerjaan Saat ini**: Mahasiswa
+- **Sedang mendalami**: C dan C++
+- **Target**: Menjadi software developer
+- **Fun fact**: Nonton anime sejak kelas 3 sd
 
 ---
 
@@ -23,10 +23,10 @@
   <a href="https://linkedin.com/in/username-kamu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://instagram.com/shvraisah" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:email-kamu@example.com">
+  <a href="mailto:shivaraisah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
